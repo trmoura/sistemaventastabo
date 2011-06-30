@@ -4,11 +4,14 @@ http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
+html{height: 650px;}
+
 body {
 	margin: 0px;
 	padding: 0;
 	font-size: 12px;
 	color: #616161;
+	height: 100%;
 }
 
 h1, h2, h3 {
