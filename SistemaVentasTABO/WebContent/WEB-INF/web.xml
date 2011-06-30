@@ -26,6 +26,8 @@
 	</context-param>
 
 	<!-- Configuracion Spring 3 -->
+	
+	<!-- 
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
@@ -38,7 +40,8 @@
 		<param-value>
  	     /WEB-INF/inventario-*.xml
      </param-value>
-	</context-param>
+	</context-param> 
+	-->
 
 	<!-- Configuracion Prime Faces -->
 
